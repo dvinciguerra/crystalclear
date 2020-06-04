@@ -1,0 +1,34 @@
+version: 1.0
+shards:
+  dotenv:
+    github: gdotdesign/cr-dotenv
+    version: 0.7.0
+
+  exception_page:
+    github: crystal-loot/exception_page
+    version: 0.1.4
+
+  faker:
+    github: askn/faker
+    version: 0.4.0
+
+  kemal:
+    github: kemalcr/kemal
+    commit: 70684a2cf07aa36fd92f2cfb26843f52fff5a10f
+
+  kemal-watcher:
+    github: faustinoaq/kemal-watcher
+    version: 0.4.0
+
+  kilt:
+    github: jeromegn/kilt
+    version: 0.4.0
+
+  radix:
+    github: luislavena/radix
+    version: 0.3.9
+
+  watcher:
+    github: faustinoaq/watcher
+    commit: d0ffd55576bf0446fe3565bc96c28139fcac776a
+

@@ -1,0 +1,25 @@
+name: chat
+version: 0.1.0
+
+authors:
+  - Daniel Vinciguerra <daniel.vinciguerra@bivee.com.br>
+
+targets:
+  chat:
+    main: src/chat.cr
+
+crystal: 0.33.0
+
+license: MIT
+
+dependencies:
+  dotenv:
+    github: gdotdesign/cr-dotenv
+  kemal:
+    github: kemalcr/kemal
+  kemal-watcher:
+    github: faustinoaq/kemal-watcher
+
+development_dependencies:
+  faker:
+    github: askn/faker
