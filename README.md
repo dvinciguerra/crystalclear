@@ -1,18 +1,16 @@
-# chat
+# CrystalClear
 
-TODO: Write a description here
+Very simple app.sli.do clone built using [crystal-lang](https://github.com/crystal-lang/crystal) [kemal](https://github.com/kemalcr/kemal) framework and [Svelte](https://github.com/sveltejs/svelte)
+
+![](./screenshot.png)
 
 ## Installation
 
-TODO: Write installation instructions here
+1. clone this repository
 
-## Usage
+2. install dependencies using `shards install` and `yarn install`
 
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
+3. start backend and frontend
 
 ## Contributing
 
@@ -25,3 +23,7 @@ TODO: Write development instructions here
 ## Contributors
 
 - [Daniel Vinciguerra](https://github.com/dvinciguerra) - creator and maintainer
+
+## License
+
+[MIT License](./LICENSE) © Daniel Vinciguerra
